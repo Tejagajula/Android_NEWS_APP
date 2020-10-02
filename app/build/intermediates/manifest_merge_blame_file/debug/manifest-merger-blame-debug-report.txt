@@ -27,35 +27,34 @@
 18-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:11:9-54
 19        android:supportsRtl="true"
 19-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:12:9-35
-20        android:testOnly="true"
-21        android:theme="@style/AppTheme" >
-21-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:13:9-40
-22        <activity android:name="com.news.teja.newsapp.SplashScreen" >
-22-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:14:9-20:20
-22-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:14:19-47
-23            <intent-filter>
-23-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:15:13-19:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:16:17-69
-24-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:16:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:18:17-77
-26-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:18:27-74
-27            </intent-filter>
-28        </activity>
-29        <activity android:name="com.news.teja.newsapp.MainActivity" />
-29-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:21:9-50
-29-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:21:19-47
-30        <activity android:name="com.news.teja.newsapp.newsExplore" />
-30-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:22:9-49
-30-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:22:19-46
-31        <activity
-31-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:23:9-25:56
-32            android:name="com.news.teja.newsapp.about_dev"
-32-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:24:13-38
-33            android:theme="@style/aboutDev" />
-33-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:25:13-44
-34    </application>
-35
-36</manifest>
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:13:9-40
+21        <activity android:name="com.news.teja.newsapp.SplashScreen" >
+21-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:14:9-20:20
+21-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:14:19-47
+22            <intent-filter>
+22-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:15:13-19:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:16:17-69
+23-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:16:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:18:17-77
+25-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:18:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="com.news.teja.newsapp.MainActivity" />
+28-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:21:9-50
+28-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:21:19-47
+29        <activity android:name="com.news.teja.newsapp.newsExplore" />
+29-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:22:9-49
+29-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:22:19-46
+30        <activity
+30-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:23:9-25:56
+31            android:name="com.news.teja.newsapp.about_dev"
+31-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:24:13-38
+32            android:theme="@style/aboutDev" />
+32-->C:\Users\Dell\AndroidStudioProjects\Android_News_app\app\src\main\AndroidManifest.xml:25:13-44
+33    </application>
+34
+35</manifest>
